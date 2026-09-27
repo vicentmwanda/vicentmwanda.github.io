@@ -8,4 +8,23 @@ I'm Vicent, an **AI/ML Engineer, Researcher, and Software Developer** interested
 
 ### Skills
 
-[Python](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)) · [C++](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)) · [C#](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)) · [PyTorch](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)) · [JAX](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/jax/jax-original.svg)) · [NumPy](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)) · [CUDA](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg)) · [Git](#) ([image](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg))
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/cplusplus.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/pytorch.svg" alt="pytorch" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/jax.svg" alt="jax" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="c#" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
