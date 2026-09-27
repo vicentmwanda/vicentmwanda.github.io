@@ -1,30 +1,16 @@
-# Hi, nice to meet you 👋
+# Hi, I'm Vicent 👋
 
-I'm Vicent, an **AI/ML Engineer, Researcher, and Software Developer** interested in **AI for Science, machine learning, and building useful software**.
+AI/ML Engineer, Researcher, and Software Developer working on **AI for Science**, machine learning, and useful software.
 
-### Interests
+## 🔭 Interests
 
-`Machine Learning` · `Generative Modelling` · `Computer Vision` · `Representation Learning` · `AI for Science` · `AI Safety`
+Machine Learning · Generative Modelling · Computer Vision · Representation Learning · AI for Science · AI Safety
 
-### Skills
+## 🛠️ Skills
 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/languages/cplusplus.svg" alt="c++" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/frameworks/pytorch.svg" alt="pytorch" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/frameworks/jax.svg" alt="jax" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="c#" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
